@@ -22,3 +22,7 @@ Which ***`api end points`*** will be needed.
 * ___Dashboard page___ - api to load the dashboard.
 * ___TrackNet___ - will have the map UI where we can follow the location of the net.
 * ___Authentication___ - signup, login and logout.
+
+### BEST `free` AI MODEL:
+1. ___Gemini 2.5 Flash___
+2. ___QWEN3-Coder 30B___
