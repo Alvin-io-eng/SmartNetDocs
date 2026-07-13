@@ -9,4 +9,4 @@ All about the tangible devices that will be used in the full design and of the d
 ### 3. DESIGN SOFTWARES
     1. PCB - Easy EDA
     2. CAD - Solid Works
-    3. Schematics - KiCAD
+    3. Schematics - KiCAD   
