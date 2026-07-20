@@ -36,6 +36,7 @@ Manufacturer datasheets and regional radio approvals.
 | Solar panel | 1 | TBD, we will review the specific panel requirements | | Charge current in sunlight |
 | Enclosure | 1 | Must be predesigned | | 24 h immersion test |
 | Antennas/cable | 2 | Matched 50 Ω LoRa/GPS parts | Ksh 2,000 | VSWR/continuity check |
+| **Node subtotal** |  |  | **Ksh 8,100** |  |
 
 ## Gateway BOM
 | Item | Qty | Specification | Price | Acceptance |
@@ -44,6 +45,14 @@ Manufacturer datasheets and regional radio approvals.
 | LoRa module | 1 | SX1276 LoRa 868 MHz long-range wireless RF | Ksh 1,500 | Packet receive test |
 | Power | 1 | 5 V USB/boat adapter, fused | Ksh 1,000 | Brownout test |
 | Enclosure | 1 | Must be predesigned | | Cable strain-relief inspection |
+| **Gateway subtotal** |  |  | **Ksh 5,000** |  |
+
+## Total prototype cost estimate
+| Scope | Estimated cost |
+|---|---:|
+| Node prototype components | Ksh 8,100 |
+| Gateway prototype components | Ksh 5,000 |
+| Combined node + gateway total | Ksh 13,100 |
 
 ## Procurement controls
 
