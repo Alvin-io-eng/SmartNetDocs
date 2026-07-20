@@ -26,24 +26,24 @@ Manufacturer datasheets and regional radio approvals.
 - [Procurement controls](#procurement-controls)
 
 ## Node BOM
-| Item | Qty | Specification / approved alternative | Acceptance |
-|---|---:|---|---|
-| MCU | 1 | ESP32-WROOM-32 DevKit | Boot and deep-sleep test |
-| LoRa | 1 | SX1276/78 module, legal regional band | SPI receive/transmit range test |
-| GPS | 1 | NEO-6M or current low-power equivalent | UTC and position lock outdoors |
-| Battery | 1 | Protected 3.7 V Li-ion, ≥3000 mAh | Capacity/thermal inspection |
-| Charger | 1 | TP4056 with protection, USB input | Charge termination test |
-| Solar panel | 1 | 5–6 V, ≥1 W | Charge current in sunlight |
-| Enclosure | 1 | UV-stable floating IP67 enclosure | 24 h immersion test |
-| Antennas/cable | 2 | Matched 50 Ω LoRa/GPS parts | VSWR/continuity check |
+| Item | Qty | Specification / approved alternative | Price | Acceptance |
+|---|---:|---|---:|---|
+| MCU | 1 | ESP32-WROOM-32 DevKit | Ksh 2,500 | Boot and deep-sleep test |
+| LoRa | 1 | SX1276 LoRa 868 MHz long-range wireless RF | Ksh 1,500 | SPI receive/transmit range test |
+| GPS | 1 | NEO-6M or current low-power equivalent | Ksh 1,000 | UTC and position lock outdoors |
+| Battery | 1 | Protected 3.7 V Li-ion, ≥3000 mAh | Ksh 900 | Capacity/thermal inspection |
+| Charger | 1 | TP4056 Type C with protection | Ksh 200 | Charge termination test |
+| Solar panel | 1 | TBD, we will review the specific panel requirements | | Charge current in sunlight |
+| Enclosure | 1 | Must be predesigned | | 24 h immersion test |
+| Antennas/cable | 2 | Matched 50 Ω LoRa/GPS parts | Ksh 2,000 | VSWR/continuity check |
 
 ## Gateway BOM
-| Item | Qty | Specification | Acceptance |
-|---|---:|---|---|
-| MCU | 1 | ESP32 DevKit | Wi-Fi and reset test |
-| LoRa module/antenna | 1/1 | Same regional configuration as node | Packet receive test |
-| Power | 1 | 5 V USB/boat adapter, fused | Brownout test |
-| Enclosure | 1 | Splash-resistant service enclosure | Cable strain-relief inspection |
+| Item | Qty | Specification | Price | Acceptance |
+|---|---:|---|---:|---|
+| MCU | 1 | ESP32 DevKit | Ksh 2,500 | Wi-Fi and reset test |
+| LoRa module | 1 | SX1276 LoRa 868 MHz long-range wireless RF | Ksh 1,500 | Packet receive test |
+| Power | 1 | 5 V USB/boat adapter, fused | Ksh 1,000 | Brownout test |
+| Enclosure | 1 | Must be predesigned | | Cable strain-relief inspection |
 
 ## Procurement controls
 
