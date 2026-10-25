@@ -1,4 +1,4 @@
-# SmartNet — Bill of Materials
+ # SmartNet — Bill of Materials
 
 | Field | Value |
 |---|---|
